@@ -1,0 +1,8 @@
+/*.button
+{
+    background:url(./image.jpg) no-repeat;
+}*/
+@font-face{
+  font-family: Silkscreen;
+  src: url(slkscr.ttf);
+}
